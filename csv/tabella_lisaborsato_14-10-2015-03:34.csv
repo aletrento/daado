@@ -1,0 +1,4 @@
+UTENTE,GIORNO,MESE,ANNO,ORA_INIZIO,MIN_INIZIO,ORA_FINE,MIN_FINE,FORFAIT,COSA_HAI_FATTO,CATEGORIA,TIPO,TAG
+lisaborsato,4,9,2015,10,0,11,30,0,"corso di aggiornamento",dubbie,nf,6
+lisaborsato,9,9,2015,15,0,17,0,0,"riunione di dipartimento",dubbie,nf,3
+lisaborsato,14,9,2015,7,55,8,45,0,"sostituzione di collega assente",dubbie,f,4

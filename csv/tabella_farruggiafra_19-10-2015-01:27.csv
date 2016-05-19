@@ -1,0 +1,6 @@
+UTENTE,GIORNO,MESE,ANNO,ORA_INIZIO,MIN_INIZIO,ORA_FINE,MIN_FINE,FORFAIT,COSA_HAI_FATTO,CATEGORIA,TIPO,TAG
+farruggiafra,1,9,2015,9,0,10,30,0,"riunione con la Dirigente presentazione istituto",80,nf,12
+farruggiafra,1,9,2015,15,30,18,0,0,"Collegio docenti ",80,nf,1
+farruggiafra,7,9,2015,10,30,12,30,0,"riunione di dipartimento",80,nf,3
+farruggiafra,7,9,2015,15,0,16,0,0,"docenti classi prime e seconde con la Dirigente",70,nf,12
+farruggiafra,10,9,2015,17,0,18,30,0,"riunione area tecnica",dubbie,nf,12

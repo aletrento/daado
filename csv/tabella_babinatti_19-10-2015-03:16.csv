@@ -1,0 +1,11 @@
+UTENTE,GIORNO,MESE,ANNO,ORA_INIZIO,MIN_INIZIO,ORA_FINE,MIN_FINE,FORFAIT,COSA_HAI_FATTO,CATEGORIA,TIPO,TAG
+babinatti,15,9,2015,14,0,15,30,0,"riunione di dipartimento",80,nf,3
+babinatti,18,9,2015,14,30,16,30,0,"Consiglio di classe",80,nf,2
+babinatti,21,9,2015,14,30,16,30,0,"Consiglio di classe",80,nf,2
+babinatti,22,9,2015,15,30,17,30,0,"Consiglio di classe",80,nf,2
+babinatti,23,9,2015,15,30,16,30,0,"Consiglio di classe",80,nf,2
+babinatti,28,9,2015,14,30,17,30,0,"Consiglio di classe",80,nf,2
+babinatti,30,9,2015,15,0,18,0,0,"Collegio docenti",80,nf,1
+babinatti,6,10,2015,14,30,16,0,0,"Corso spagnolo 0",40,f,8
+babinatti,8,10,2015,14,30,15,50,0,"Corso spagnolo 0",40,f,8
+babinatti,13,10,2015,14,30,15,50,0,"Corso spagnolo 0",40,f,8

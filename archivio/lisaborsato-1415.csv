@@ -1,0 +1,84 @@
+giorno,mese,attività_svolta,categoria,durata_in_ore,durata_forfetaria
+1,10,sostituzione,40,1.0000,0
+13,10,"Religion Today",40,2.0000,0
+16,10,"sostituzione IVUD",40,1.0000,0
+20,10,"sostituzione IIIUB",40,1.0000,0
+27,10,"Sostituzione IIIUB IVUB",40,2.0000,0
+27,10,"correzione temi IIIUB",40,2.0000,0
+28,10,"correzione temi IIIUB",40,2.0000,0
+30,10,"correzione temi IIIUB",40,2.0000,0
+31,10,"correzione temi IIIUB",40,2.0000,0
+7,11,"sostituzione IIIUF",40,1.0000,0
+10,11,"sostituzione IVUB",40,1.0000,0
+10,11,"sostituzione IIUB",40,1.0000,0
+14,11,"sostituzione IVUB",40,1.0000,0
+2,12,"sostituzione VUF",40,1.0000,0
+3,12,"classe IVUB a casa di Galilei",40,3.0000,0
+4,12,"corso per alunni stranieri",40,2.0000,0
+11,12,"corso alunni stranieri",40,2.0000,0
+12,12,"sostituzione 1UF",40,1.0000,0
+13,12,"corso alunni stranieri",40,2.0000,0
+15,12,"corso alunni stranieri",70,2.0000,0
+22,12,"corso alunni stranieri",70,2.0000,0
+12,1,"corso alunni stranieri",70,2.0000,0
+14,1,"supplenza IIIUB",70,1.0000,0
+15,1,"corso alunni stranieri",70,2.0000,0
+19,1,"sostituzione IVUB IIIUB",70,2.0000,0
+19,1,"corso alunni stranieri",70,2.0000,0
+20,1,"Sostituzione IIIUB",70,1.0000,0
+22,1,"sostituzione IeB",70,1.0000,0
+22,1,"corso alunni stranieri",70,2.0000,0
+26,1,"corso alunni stranieri",70,2.0000,0
+29,1,"corso alunni stranieri",70,2.0000,0
+2,2,"corso alunni stranieri",70,2.0000,0
+5,2,"corso alunni stranieri",70,2.0000,0
+9,2,"corso alunni stranieri",70,2.0000,0
+10,2,"sostituzione IIIUB",70,1.0000,0
+12,2,"corso alunni stranieri",70,2.0000,0
+20,2,"sostituzione IIIUC",70,1.0000,0
+4,3,"Sostituzione colloga VUF",70,1.0000,0
+23,3,"sostituzione IVUB",70,1.0000,0
+25,3,"sostituzione IVUB",70,1.0000,0
+27,3,"sostituzione IVUC",70,1.0000,0
+31,3,"sostituzione IVUB",70,1.0000,0
+10,4,"sostituzione IVeA",70,1.0000,0
+22,4,"sostituzione IIIuG",70,1.0000,0
+27,4,"sostituzione IIIUB IVUB",70,2.0000,0
+25,5,"sostituzione II IV UB",70,2.0000,0
+8,6,"sostituzione III IV UB",70,2.0000,0
+0,0,"coordinatore IVUB",70,0.0000,20
+1,9,"primo collegio",80,3.0000,0
+8,9,dipartimento,80,2.0000,0
+10,9,"collegio docenti",80,3.0000,0
+15,9,dipartimento,80,1.5000,0
+17,9,dipartimento,80,2.0000,0
+22,9,IVUB,80,1.5000,0
+22,9,VUF,80,1.5000,0
+2,10,"consiglio classe IIIUB",80,1.5000,0
+3,10,"Aggiornamento Guerra mondiale - cinema",40,2.0000,0
+6,10,"Dipartimento Traclò",80,3.5000,0
+8,10,"Aggiornamento Grande guerra",40,2.0000,0
+15,10,"Aggiornamento Grande Guerra",40,2.0000,0
+17,10,"incontro coi genitori classe IIIUB",dubbie,1.0000,0
+17,10,"incontro genitori IVUB coordinatore",dubbie,1.0000,0
+22,10,Dipartimento,80,1.5000,0
+29,10,"Corso aggiornamento - la grande guerra nel cinema",40,2.0000,0
+31,10,"Incontro con Laura Pontalti per modulo IVUB",80,0.8333,0
+4,11,"consiglio VUF",80,1.5000,0
+6,11,"Consiglio IVUB",80,1.5000,0
+11,11,"programmazione modulo libertà classe IV (Pontalti)",80,1.6667,0
+12,11,"Aggiornamento Grande Guerra",40,2.0000,0
+14,11,"programmazione invalsi con Prof. Manzana",80,1.5000,0
+14,11,"Collegio docenti",80,2.5000,0
+18,11,"consiglio III",80,1.5000,0
+24,11,"udienze generali",80,2.0000,0
+28,11,"udienze generali",80,2.0000,0
+1,12,"incontro alunna Carpentari",70,1.5000,0
+10,12,"programmazione IVUB con Filz",80,1.0000,0
+7,1,"Scrutini VUF",80,2.0000,0
+15,1,"Scrutini IVUB",80,1.5000,0
+16,1,"Scrutini IIIUB",80,1.5000,0
+23,2,Collegio,80,2.0000,0
+4,5,"Dipartimento libri testo",80,2.0000,0
+6,5,"documento VUF",80,2.0000,0
+15,5,collegio,80,2.5000,0
